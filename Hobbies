@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>Hobbies</title>
+    <h1 style="color:pink;">HOBBIES</h1>
+
+    <table border='1' cellspacing='2' cellpadding='30'>
+        <tbody>
+        <tr>
+            <td bgcolor='NavajoWhite'>Ler</td>
+            <td bgcolor='NavajoWhite'>Escrever livros</td>
+            <td bgcolor='NavajoWhite'>Ouvir músicas</td>
+        </tr>
+        <tr>
+            <td bgcolor='NavajoWhite'>Pintar</td>
+            <td bgcolor='NavajoWhite'>Desenhar</td>
+            <td bgcolor='NavajoWhite'>Assistir filmes</td>
+        </tr>
+        
+        <tr>
+             <td bgcolor='NavajoWhite'>Customizar roupas</td>
+             <td bgcolor='NavajoWhite'>Passear</td>
+             <td bgcolor='NavajoWhite'>Clube de leitura</td>
+           
+</tr>
+</body>
+</html>
