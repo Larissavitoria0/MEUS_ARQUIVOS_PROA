@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing page</title>
+
+    <body>
+<img src='https://www.bexus.com.br/images/landing1.png'/>
+    <h2>O que é Landing Page?</h2>
+
+    <ul>
+    <li>Landing Pages são páginas de um site com um foco principal: conversão.
+    Assim, essas páginas de conversão possuem menos elementos que uma página tradicional, focando apenas na oferta central oferecida por ela.
+    Landing Pages são muito usadas em campanhas de Marketing Digital, pois costumam ter altas taxas de conversão.</li>
+    </ul>
+
+    <h2>Como criar uma Landing Page?</h2>
+    
+    <ol>
+    <li>Selecione um template de landing page</li>
+    <li>Dê um nome à sua landing page.</li>
+    <li>Adicione seu próprio conteúdo.</li>
+    <li>Inclua imagens impactantes.</li>
+    <li>Escolha um nome de domínio relevante.</li>
+    <li>Preencha sua meta descrição e título SEO.</li>
+    <li>Certifique-se de que todos os seus links e CTAs estejam funcionando.</li>
+    <li>Publique!</li>
+    </ol>
+
+    </body>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color:#FFFFFF;
+        }
+        div{
+            background-color:#D3D3D3;
+            position: absolute;
+            top: 60%;
+            left: 60%;
+            transform: translate(-50%,-50%);
+            padding: 40px;
+            border-radius: 30px;
+            color: whinte;
+        }
+        input{
+            padding: 15px;
+            border- none;
+            outline: none;
+            font-size: 15px;
+        }
+        button{
+            background-color: 	#000000;
+            border: none;
+            padding: 10px;
+            width: 80%;
+            border-radius:10px;
+            color: white;
+            font-size: 15px;
+            cursor: pointer;
+        }
+        button:hover{
+            background-color: #363636;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Faça sua inscrição!</h1>
+        <h3>Cadastre-se gratuitamente</h3>
+        <input type="text" placeholder="Nome">
+        <br><br>
+        <input type="text" placeholder="Email">
+        <br><br>
+        <input type="password" placeholder="Senha">
+        <br><br>
+        <button>Enviar</button>
+    </div>
+
+
+</body>
+</html>
