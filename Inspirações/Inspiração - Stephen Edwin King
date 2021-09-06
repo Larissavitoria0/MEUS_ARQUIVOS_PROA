@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Inpiração</title>
+    <head>
+
+    <body>
+        <h1>Inspiração</h1>
+<img src='https://static.wikia.nocookie.net/stephen-king/images/a/a0/Stephen_king-coming-to-boulder.jpg/revision/latest?cb=20171124054139&path-prefix=pt-br'/>
+
+    <table border='1' cellspacing='2' cellpadding='10'>
+        <tbody>
+        <tr>
+            <td bgcolor='blue'>Nome</td>
+            <td bgcolor='blue'>Bio</td>
+            <td bgcolor='blue'>Livros</td>
+        </tr>
+        <tr>
+            <td>Stephen Edwin King</td>
+            <td colspan='1'>Stephen Edwin King é um escritor norte-americano de terror, ficção sobrenatural, suspense, ficção científica e fantasia. Os seus livros já venderam mais de 400 milhões de cópias, com publicações em mais de 40 países. É o 9º autor mais traduzido no mundo.</td>
+            <td colspan='1'>Belas adormecidas, It:A coisa, O iluminado, Um lugas nas estrelas e outros contos.</td>
+
+</tr>
+</tfooter>
+</table>
+</body>
+</html>
