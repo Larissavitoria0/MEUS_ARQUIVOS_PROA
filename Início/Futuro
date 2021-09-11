@@ -1,0 +1,36 @@
+<html>
+<head>
+    <title>Futuro</title>
+</head>
+
+<body bgcolor="#FFDEAD"
+
+<body>
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vDgE3TELBnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<table border='1' cellspacing='2' cellpadding='10'>
+<tbody>
+<tr>
+    <td bgcolor='LightPink'>Metas</td>
+    <td bgcolor='LightPink'>Por que dessa meta?</td>
+    <td bgcolor='LightPink'>E se não conseguir?</td>
+</tr>
+
+<tr>
+    <td>Passar no Enem</td>
+    <td colspan='1'>Passar no enem é uma meta bastante importante para mim, pois quero fazer faculdade.</td>
+    <td colspan='1'>Vou estudar mais até conseguir.
+</tr>
+
+<tr>
+    <td>Conseguir um emprego</td>
+    <td colspan='1'>Porque quero ajudar em casa e ser mais independente.</td>
+    <td colspan='1'>Vou fazer mais cursos e continuar tentando.</td>
+</tr>
+
+
+</body>
+</html>
