@@ -1,0 +1,10 @@
+body {
+    background-color:white;
+    font-family:monospace;
+    font-size: 10mm;
+    color:rgb(255, 57, 90); text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.title {
+    text-align: center;
+}
